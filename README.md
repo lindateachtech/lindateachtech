@@ -1,4 +1,11 @@
-### Hi everyone, I am Linda 👋
+## Hi everyone, I am Linda 👋
+
+- :bar_chart: I am interested in:
+-   **R-programming**
+-   **data visualization**
+-   **text mining**
+-   **social networks analysis**
+-   **education - teach tech** 
 
 <!--
 **lindajzmin/lindajzmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
