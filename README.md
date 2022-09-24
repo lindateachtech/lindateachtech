@@ -1,11 +1,12 @@
 ## Hi everyone, I am Linda 👋
 
-- :bar_chart: I am interested in:
--   **R-programming**
--   **data visualization**
--   **text mining**
--   **social networks analysis**
--   **education - teach tech** 
+- Process and Finance Engineer (ESPOL 🇪🇨)
+- Master in Mathematical Research (UPV 🇪🇸)
+- 💫 I am interested in: 💻 **R-programming** | 📊 **data visualization** | 📗 **text mining** | 📱 **social networks analysis** | 👩‍🏫 **education** 
+- My Hobbies: Swimming 🏊‍♀️ | Dancing 💃 | Reading 📘
+- [Check my CV!]()
+- Find me at <a href="https://twitter.com/lindajzmin"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+
 
 <!--
 **lindajzmin/lindajzmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
