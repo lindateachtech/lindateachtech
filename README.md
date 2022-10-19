@@ -4,7 +4,7 @@
 - Master in Mathematical Research (UPV 🇪🇸)
 - 💫 I am interested in: 💻 **R-programming** | 📊 **data visualization** | 📗 **text mining** | 📱 **social networks analysis** | 👩‍🏫 **education** 
 - My Hobbies: Swimming 🏊‍♀️ | Dancing 💃 | Reading 📘
-- [Check my CV!]()
+- [Check my CV!](https://github.com/lindajzmin/My-CV/blob/main/myCV.pdf)
 - Find me at <a href="https://twitter.com/lindajzmin"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 
