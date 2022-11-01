@@ -1,4 +1,4 @@
-## Hi everyone, I am Linda 👋
+## Hi everyone, My name is Linda <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
 
 - Process and Finance Engineer (ESPOL 🇪🇨)
 - Master in Mathematical Research (UPV 🇪🇸)
