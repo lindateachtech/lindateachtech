@@ -11,14 +11,12 @@ My name is Linda. I'm Data Scientist passionate for data visualization and commu
 - <img src="https://user-images.githubusercontent.com/62815528/199351254-871fbf1d-1a3d-499e-b84b-130822c69b84.png" width="17" /> My Hobbies: Swimming 🏊‍♀️ | Dancing 💃 | Reading 📘
 - 📚 I'm currently learning english
 - [Check my CV!](https://github.com/lindajzmin/My-CV/blob/main/my-CV.pdf)
-- Find me at <a href="https://twitter.com/lindajzmin"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
-###
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=maurodesouza" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=lindajzmin" height="150" alt="languages graph"  />
 </div>
 
-###
+### I code with
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo"  />
@@ -27,7 +25,7 @@ My name is Linda. I'm Data Scientist passionate for data visualization and commu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
-###
+### Find me at
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
