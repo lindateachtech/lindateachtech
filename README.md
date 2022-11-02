@@ -23,11 +23,10 @@ My name is Linda. I'm Data Scientist passionate for data visualization and commu
 
 ### Find me at
 
-<div align="center">
-  [<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00acee&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />](https://twitter.com/lindajzmin) 
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-</div>
+<div align="left">
+[![Twitter](https://img.shields.io/badge/lindajzmin-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lindajzmin/)
+[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)
+[![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzashakeri/)
+[![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)
+[![gitlab](https://img.shields.io/badge/rzashakeri-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)
 
