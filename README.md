@@ -11,6 +11,7 @@ My name is Linda. I'm Data Scientist passionate for data visualization and commu
 - <img src="https://user-images.githubusercontent.com/62815528/199351254-871fbf1d-1a3d-499e-b84b-130822c69b84.png" width="17" /> My Hobbies: Swimming 🏊‍♀️ | Dancing 💃 | Reading 📘
 - 📚 I'm currently learning english
 - [Check my CV!](https://github.com/lindajzmin/My-CV/blob/main/my-CV.pdf)
+- [Mira mi CV!](https://github.com/lindajzmin/My-CV/blob/main/mi-CV.pdf)
 
 
 ### I code with
