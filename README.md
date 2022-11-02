@@ -24,6 +24,7 @@ My name is Linda. I'm Data Scientist passionate for data visualization and commu
 ### Find me at
 
 <div align="left">
+  
 [![Twitter](https://img.shields.io/badge/lindajzmin-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lindajzmin/)
 [![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)
 [![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzashakeri/)
