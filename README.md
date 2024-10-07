@@ -8,9 +8,8 @@ My name is Linda. 📊 I am a Data Analyst at a company dedicated to online educ
 - <img src="https://user-images.githubusercontent.com/62815528/199349185-2891682e-7506-4b3d-9992-9d56682f0352.png" width="17" /> Master in Mathematical Research (UPV <img src="https://user-images.githubusercontent.com/62815528/199349006-87d2d7b5-d124-4797-86b0-341b4629f22c.png" width="17" />)
 - <img src="https://user-images.githubusercontent.com/62815528/199349185-2891682e-7506-4b3d-9992-9d56682f0352.png" width="17" /> Master in Quantitative Techniques for Business Management (UGR <img src="https://user-images.githubusercontent.com/62815528/199349006-87d2d7b5-d124-4797-86b0-341b4629f22c.png" width="17" />)
 - <img src="https://user-images.githubusercontent.com/62815528/199352863-394e2e27-4e40-4964-a623-dbde56dec5c9.png" width="17" /> Software Carpentry Instructor
-- 💫 I am interested in:  ![image](https://github.com/user-attachments/assets/30aed345-ed44-48ea-b317-6d66a5dc20f0) 
-**machine learning** | 📗 **text mining** | 📱 **social networks analysis** | **storytelling** | 📊 **data visualization** | 👩‍🏫 **education**
-- <img src="https://user-images.githubusercontent.com/62815528/199351254-871fbf1d-1a3d-499e-b84b-130822c69b84.png" width="17" /> My Hobbies: Swimming 🏊‍♀️ | Video games 🎮 | Eating 🍴
+- 💫 I am interested in: 🖥️ **machine learning** | 📗 **text mining** | 📱 **social networks analysis** | 📖 **storytelling** | 📊 **data visualization** | 👩‍🏫 **education**
+- <img src="https://user-images.githubusercontent.com/62815528/199351254-871fbf1d-1a3d-499e-b84b-130822c69b84.png" width="17" /> My Hobbies: Swimming 🏊‍♀️ | Video games 🎮 | Traveling ✈️
 - 📚 I'm currently learning english
 - [Mira mi CV!](https://github.com/lindajzmin/My-CV/blob/main/mi-CV_LindaCabrera.pdf)
 
