@@ -1,4 +1,4 @@
-<h1 align="left">¡Hola! Soy Linda
+<h1 align="left">¡Hola! Soy Linda Cabrera O <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /></h1>
 
 <a href="https://lindateachtech.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=9c2c87&vCenter=true&width=620&lines=Senior+Data+Analyst;Instructora+de+Software+Carpentry;Champion+2026+rOpenSci;Datos%2C+docencia+y+comunidad" alt="Typing SVG" />
