@@ -1,4 +1,4 @@
-<h1 align="left">¡Hola! Soy Linda <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" /></h1>
+<h1 align="left">¡Hola! Soy Linda
 
 <a href="https://lindateachtech.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=9c2c87&vCenter=true&width=620&lines=Senior+Data+Analyst;Instructora+de+Software+Carpentry;Champion+2026+rOpenSci;Datos%2C+docencia+y+comunidad" alt="Typing SVG" />
