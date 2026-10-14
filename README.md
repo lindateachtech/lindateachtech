@@ -12,7 +12,6 @@
 
 - 📦 Desarrollo **[florencia](https://github.com/lindateachtech/florencia)**, un paquete de R en español para detectar errores estructurales en datasets. Lo hago dentro del programa **rOpenSci Champions 2026**
 - ☁️ Preparo la certificación **Data Practitioner Associate** de Google Cloud
-- 👩‍🏫 Doy clases en el máster de IA aplicada al marketing digital de **DKS Digital Knowledge School** y en la **Sociedad Ecuatoriana de Estadística**
 
 ## 👩‍💻 Sobre mí
 
@@ -25,7 +24,6 @@
 - 🪟 [Power BI Data Analyst Associate](https://learn.microsoft.com/es-es/users/lindacabreraorellana/credentials/9e6fbf547737cd4b)
 - 💫 Me interesan 📊 **visualización de datos** | 🧹 **calidad de datos** | 📗 **ciencia de datos** | 👩‍🏫 **educación**
 - <img src="https://user-images.githubusercontent.com/62815528/199351254-871fbf1d-1a3d-499e-b84b-130822c69b84.png" width="17" /> Fuera del teclado me encontrarás jugando videojuegos 🎮 probando comida internacional o viajando ✈️
-- 📄 [Mira mi CV](https://github.com/lindateachtech/mi-cv/blob/main/CV.pdf)
 
 
 ## 🧰 Mi caja de herramientas
