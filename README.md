@@ -43,11 +43,6 @@
 ## 📈 Mi actividad en GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lindateachtech&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindateachtech&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com?user=lindateachtech&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </p>
 
